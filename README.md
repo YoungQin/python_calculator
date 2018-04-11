@@ -1,5 +1,5 @@
 # python_calculator
-python3.6  基于Tk模块 开发面向对象计算器
+python3.6  基于tkinter 开发面向对象计算器
 
 现有功能 +-*/= ± 
 
